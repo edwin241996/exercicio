@@ -1,0 +1,26 @@
+* {
+    margin-right: 50%;
+}
+
+html {
+    font-family: roboto, sant-serife;
+}
+
+img {
+    width: 883px;
+    height: 347px;
+}
+
+h1 {
+    font-family: Black;
+    font-size: 79px;
+    width: 79px;
+    Color: #FFB300;
+}
+
+p {
+    color: black;
+    font-size: 21px;
+    font-family: Bold;
+    text-align: right;
+}
